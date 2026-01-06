@@ -9,3 +9,4 @@ Check out my Logic & Physics Critique in the Wiki:
 ### 💻 Implementation
 The optimized implementation in C can be found here:
 👉 [bubble_sort.c](./bubble_sort.c)
+### 

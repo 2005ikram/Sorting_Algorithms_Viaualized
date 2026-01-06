@@ -9,4 +9,6 @@ Check out my Logic & Physics Critique in the Wiki:
 ### 💻 Implementation
 The optimized implementation in C can be found here:
 👉 [bubble_sort.c](./bubble_sort.c)
-### 
+### Deep dive : The physics of Bubble sort 
+For a detailed pysicla interpretation of this alogorithm (P_doping &Thermal liberation),
+please visit the [[The Physical Logic of Bubble Sort(A Semiconductor Perspective )]].

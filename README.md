@@ -11,4 +11,4 @@ The optimized implementation in C can be found here:
 👉 [bubble_sort.c](./bubble_sort.c)
 ### Deep dive : The physics of Bubble sort 
 For a detailed pysicla interpretation of this alogorithm (P_doping &Thermal liberation),
-please visit the [[The Physical Logic of Bubble Sort(A Semiconductor Perspective )]].
+please visit the link (https://github.com/2005ikram/Sorting_Algorithms_Viaualized/wiki/The-Physical-Logic-of-Bubble-Sort(A-Semiconductor-Perspective-))
